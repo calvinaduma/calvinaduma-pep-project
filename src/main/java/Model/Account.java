@@ -3,8 +3,6 @@ package Model;
 /**
  * This is a class that models an Account.
  *
- * DO NOT CHANGE ANYTHING IN THIS CLASS
- *
  */
 public class Account {
     /**
